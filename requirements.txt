@@ -1,0 +1,7 @@
+matplotlib
+monai
+numpy
+torch
+gradio
+nibabel
+SimpleITK
