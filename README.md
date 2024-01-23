@@ -15,11 +15,11 @@ pip install -r requirements.txt
 2. 整理数据集，参见视频教程
 3. 若为dicom格式，转换为 NIFTI 
 
- 	dicom2nii.ipynb
+ 	      dicom2nii.ipynb
 
 4. 生成数据集json文件
 
- generate_json.ipynb
+        generate_json.ipynb
 
 5. 训练
 
@@ -31,4 +31,4 @@ pip install -r requirements.txt
 
 7. 计算体积
 
- 	compute.ipynb
+ 	      compute.ipynb
